@@ -17,4 +17,6 @@ footer{
     height: 2rem;
     position: fixed;
     bottom: 0;
+    text-align: center;
+    align-content: center;
 }
