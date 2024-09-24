@@ -1,8 +1,10 @@
-.body{
-    background-color: deeppink;
+.conteudo{
+    display: flex;
 }
 
-
-
-
-
+.cartao{
+    background-color: deeppink;
+    margin: 1rem 1rem;
+    flex-grow: 1;
+    flex-basis: calc(33%-6rem);
+}
