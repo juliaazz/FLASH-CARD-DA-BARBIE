@@ -9,7 +9,7 @@
     flex-basis: calc(50%-6rem);
 }
 
-.footer{
+footer{
     background-color: aquamarine;
     color: blue;
 }
