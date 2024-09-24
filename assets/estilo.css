@@ -8,3 +8,7 @@
     flex-grow: 1;
     flex-basis: calc(50%-6rem);
 }
+
+.footer{
+    background-color: aquamarine;
+}
