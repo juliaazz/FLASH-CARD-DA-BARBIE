@@ -10,6 +10,9 @@
     flex-basis: calc(50%-6rem);
     border-radius: 10px;
 }
+.cartao main{
+    text-align: center;
+}
 
 footer{
     background-color: deeppink;
