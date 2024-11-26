@@ -14,8 +14,8 @@ function criaCartao(pergunta, resposta){
     let respostaEstaVisivel = false 
     function viracartao () {
 
-        
-        respostaEstaVisivel = |respostaEstaVisivel
+
+        respostaEstaVisivel = !respostaEstaVisivel
         cartao.classList.toggle('active', respostaEstaVisivel)
         console.log ('teste')
 
