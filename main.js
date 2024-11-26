@@ -3,12 +3,12 @@ function criaCartao(pergunta, resposta){
     let cartao = document.createElement('article')
     cartao.className = 'cartao'
 
-    cartao.innerHTML = 
+    cartao.innerHTML = `
     <div class = "cartao--conteudo">
     <div class="cartao--pergunta"><p>${pergunta}</p> </div>
     <div class="cartao--resposta"><p>${resposta}</p></div>
     </div> 
-    
+    `
     console.log (cartao)
 
     let respostaEstaVisivel = false 
